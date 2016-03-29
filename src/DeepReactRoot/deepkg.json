@@ -1,0 +1,21 @@
+{
+  "identifier": "deep.react.root",
+  "name": "DeepReactRoot",
+  "description": "Manages root structure of a microservice based on React framework, as well as loads router module.",
+  "version": "0.0.1",
+  "propertyRoot": true,
+  "author": {
+    "name": "Mitoc Group",
+    "email": "hello@mitocgroup.com",
+    "website": "http://www.mitocgroup.com"
+  },
+  "contributors": [
+    {
+      "name": "DEEP Dev Team",
+      "email": "hello@deep.mg",
+      "website": "https://www.deep.mg"
+    }
+  ],
+  "dependencies": {
+  }
+}
