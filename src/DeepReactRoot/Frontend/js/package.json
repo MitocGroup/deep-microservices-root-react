@@ -1,7 +1,7 @@
 {
-  "name": "DeepNgRoot",
+  "name": "deep-react-root",
   "version": "0.0.1",
-  "description": "Base Angular microservice",
+  "description": "Base React microservice",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run build:styles && npm run build:modules",

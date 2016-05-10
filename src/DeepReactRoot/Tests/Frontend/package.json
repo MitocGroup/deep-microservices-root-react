@@ -1,5 +1,5 @@
 {
-  "name": "DeepReactRootFrontend",
+  "name": "deep-react-root-frontend-test",
   "version": "0.0.1",
   "description": "DEEP Micro Services Root Frontend",
   "scripts": {
@@ -8,6 +8,6 @@
     "coverage": "echo \"No coverage specified\" && exit 0"
   },
   "dependencies": {},
-  "devDependencies": {
-  }
+  "devDependencies": {},
+  "private": true
 }
