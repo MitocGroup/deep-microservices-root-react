@@ -1,6 +1,6 @@
 {
-  "identifier": "deep.react.root",
-  "name": "DeepReactRoot",
+  "identifier": "deep-root-react",
+  "name": "deep-root-react",
   "description": "Manages root structure of a microservice based on React framework, as well as loads router module.",
   "version": "0.0.1",
   "propertyRoot": true,
