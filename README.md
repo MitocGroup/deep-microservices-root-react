@@ -2,7 +2,7 @@ deep-microservices-root-react
 =============================
 
 [![Build Status](https://travis-ci.org/MitocGroup/deep-microservices-root-react.svg?branch=master)](https://travis-ci.org/MitocGroup/deep-microservices-root-react)
-[![Test Coverage](https://codeclimate.com/repos/579f4fd13c33ef1c32005800/badges/6358990ced50e4f40f1d/coverage.svg)](https://codeclimate.com/repos/579f4fd13c33ef1c32005800/coverage)
+[![Test Coverage](https://codeclimate.com/github/MitocGroup/deep-microservices-root-react/badges/coverage.svg?maxAge=0)](https://codeclimate.com/github/MitocGroup/deep-microservices-root-react)
 
 deep-microservices-root-react is the fundamental building block used by cloud-native web applications
 built on top of [DEEP Framework](https://github.com/MitocGroup/deep-framework) and
